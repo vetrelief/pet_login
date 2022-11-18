@@ -1501,5 +1501,8 @@ section {
     #hero-pet-login{
         padding-top: 5rem;
     }
-    
+    .pet-profile-card .dog-profile{
+        width: 45px;
+        height: 45px;
+    }
 }
