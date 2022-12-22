@@ -1249,6 +1249,12 @@ section {
 }
 
 @media (max-width: 768px) {
+    #hero-pet-login{
+        padding-top: 3rem !important;
+    }
+    section {
+        padding: 20px 0;
+    }
     .start-trading-now .trading-box {
         margin: 20px 0;
     }
